@@ -2,7 +2,7 @@ spring:
   datasource:
     platform: h2
     driver-class-name: org.h2.Driver
-    url: jdbc:h2:mem:dedoduro
+    url: jdbc:h2:mem:cooperado
     data-username: sa
     data-password: 
   jpa:
